@@ -365,6 +365,15 @@
         }
       ]
     },
+    "SetFilenameFormatting": {
+      "fields": [
+        { 
+          "attr_name": "filename-formatting",
+          "field_name": "filename-formatting",
+          "type": "str"
+        }
+      ]
+    },
     "TransitionToProgram": {
       "fields": [
         {
